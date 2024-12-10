@@ -11,7 +11,7 @@ function HomePage() {
           <a href='https://github.com/ebogni17/LibraryManagement' target='_blank' rel="noreferrer">Github</a>
         </p>
         <p>
-          <a href='Edith_Jiokeng_Project_Whitepaper.pdf' download={true} rel="noreferrer">Project Report</a>
+          <a href='Edith_jiokeng_Final_Project_WhitePaper.pdf' download={true} rel="noreferrer">Project Report</a>
         </p>
         <p>
           <a href='#/book-data' target='_blank' rel="noreferrer">View book data</a>
